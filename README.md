@@ -2,6 +2,7 @@
 
 - Integração de API com o ReactNative
 - Animação
+- Offline First
 
 ![image](https://user-images.githubusercontent.com/71986202/168195064-b2d32622-1e70-4e5c-9102-69cb86079da6.png)
 
